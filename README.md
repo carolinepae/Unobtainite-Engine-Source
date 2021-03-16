@@ -4,3 +4,6 @@ this has my project also which is public, please fix this, it runs on the GPU, v
 
 Moved to Google Drive for reasons. Please stand by 
 https://twitter.com/carolineshodan
+
+
+And we're back and I'm licensing this GNU GPL v3
